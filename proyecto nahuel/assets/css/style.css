@@ -1,0 +1,15 @@
+.carousel-item > img{
+    height:  700px;
+    width: auto;
+    object-fit: cover;
+}
+.nav-link{
+    color: #ffffff !important;
+}
+.navbar-brand {
+    font: oblique bold 120% cursive;
+    
+}
+.navbar-brand{
+    color: #ffffff;
+}
